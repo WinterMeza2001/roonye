@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../constants.dart';
-import '../model/email.dart';
+import '../model/email.dart';uuu
 
 class DetailScreen extends StatelessWidget {
   final Email email;
